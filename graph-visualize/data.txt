@@ -1,0 +1,2 @@
+Lisbon Madrid Paris Berlin Copenhagen Stockholm Kyiv
+0.0 502.56 1053.36 2187.27 2636.42 3117.23 4506.49
